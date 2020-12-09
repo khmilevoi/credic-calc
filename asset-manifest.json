@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/credic-calc/static/js/main.489b3239.chunk.js",
-    "main.js.map": "/credic-calc/static/js/main.489b3239.chunk.js.map",
-    "runtime-main.js": "/credic-calc/static/js/runtime-main.8e8d8d88.js",
-    "runtime-main.js.map": "/credic-calc/static/js/runtime-main.8e8d8d88.js.map",
-    "static/js/2.d418f8d6.chunk.js": "/credic-calc/static/js/2.d418f8d6.chunk.js",
-    "static/js/2.d418f8d6.chunk.js.map": "/credic-calc/static/js/2.d418f8d6.chunk.js.map",
-    "index.html": "/credic-calc/index.html",
-    "static/js/2.d418f8d6.chunk.js.LICENSE.txt": "/credic-calc/static/js/2.d418f8d6.chunk.js.LICENSE.txt"
+    "main.js": "/credit-calc/static/js/main.489b3239.chunk.js",
+    "main.js.map": "/credit-calc/static/js/main.489b3239.chunk.js.map",
+    "runtime-main.js": "/credit-calc/static/js/runtime-main.57e9b5b0.js",
+    "runtime-main.js.map": "/credit-calc/static/js/runtime-main.57e9b5b0.js.map",
+    "static/js/2.06d6ac0e.chunk.js": "/credit-calc/static/js/2.06d6ac0e.chunk.js",
+    "static/js/2.06d6ac0e.chunk.js.map": "/credit-calc/static/js/2.06d6ac0e.chunk.js.map",
+    "index.html": "/credit-calc/index.html",
+    "static/js/2.06d6ac0e.chunk.js.LICENSE.txt": "/credit-calc/static/js/2.06d6ac0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e8d8d88.js",
-    "static/js/2.d418f8d6.chunk.js",
+    "static/js/runtime-main.57e9b5b0.js",
+    "static/js/2.06d6ac0e.chunk.js",
     "static/js/main.489b3239.chunk.js"
   ]
 }
